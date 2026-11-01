@@ -32,6 +32,8 @@ When solving QUBO-formulated unit commitment problems on 24-hour, 10- and 20-uni
 - Exact QUBO ground state on reduced instances: brute force when n ≤ 22, otherwise SCIP on the QUBO.
 - Heuristics: simulated annealing (`dwave-samplers` `SimulatedAnnealingSampler`), simulated bifurcation (`simulated-bifurcation`). QAOA (one library, Qiskit or PennyLane) on reduced instances only, added last.
 - Every heuristic run: fixed seed, ≥ 10 seeds per setting, log all solver parameters.
+-    - Simulated bifurcation must run in float64. simulated-bifurcation 2.0.0 fails in float64 unless torch's default dtype is set to float64 for the duration of the call and restored afterwards; wrap every SB call this way. Never fall back to float32 silently. Record the dtype in every result row.
+   - Record CPU model, thread count and library versions with every timing result.
 
 ## Engineering rules
 
