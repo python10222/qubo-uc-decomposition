@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scipy
+pyscipopt
+highspy
+dwave-samplers
+dimod
+simulated-bifurcation
+pytest
+# Add exactly one of these when Task 5 (QAOA) starts:
+# qiskit
+# pennylane
