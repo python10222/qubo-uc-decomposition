@@ -1,5 +1,6 @@
 """Audit the committed experiment artifacts independently of CSV generation."""
 import csv
+from copy import deepcopy
 from dataclasses import fields
 import json
 from pathlib import Path
@@ -80,4 +81,16 @@ def test_baseline_artifacts_are_complete_and_certified():
     audit = json.loads((ROOT/'results/preprocessing.json').read_text())
     assert set(audit) == set(instances)
     for name,instance in instances.items():
-        assert audit[name] == instance.audit
+        saved, current = deepcopy(audit[name]), deepcopy(instance.audit)
+        # LAPACK/BLAS platforms can differ in the last few digits of an LS
+        # fit. Keep raw data, rounding and all other audit fields exact.
+        for unit in instance.units:
+            saved_fits = saved['units'][unit.name].pop('fits_by_hour')
+            current_fits = current['units'][unit.name].pop('fits_by_hour')
+            assert len(saved_fits) == len(current_fits)
+            for expected, actual in zip(saved_fits, current_fits):
+                for key in ('coefficients_abc', 'rmse', 'max_abs_error'):
+                    np.testing.assert_allclose(actual.pop(key), expected.pop(key),
+                                               rtol=1e-12, atol=1e-10)
+                assert actual == expected
+        assert saved == current
