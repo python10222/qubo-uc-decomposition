@@ -1,0 +1,72 @@
+{
+  "instance": "20_0_1_w",
+  "B": 4,
+  "n": 2759,
+  "solver": "SA",
+  "seed": 3,
+  "lambda1": 8590.986885999971,
+  "lambda2": 37.708307884615394,
+  "wall_seconds": 8.90203667000003,
+  "best_energy": 3738310.4863630664,
+  "samples": 100,
+  "feasible_count": 0,
+  "feasibility_rate": 0.0,
+  "best_feasible_cost": null,
+  "z_disc": 2907325.142899288,
+  "gap_absolute": null,
+  "gap_percent": null,
+  "metadata": {
+    "cpu_model": "AMD EPYC 9V45 96-Core Processor",
+    "logical_cpu_count": 3,
+    "scip_threads": 1,
+    "python": "3.12.14",
+    "libraries": {
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "pyscipopt": "6.3.0",
+      "torch": "2.15.0+cpu",
+      "dimod": "0.12.23",
+      "dwave-samplers": "1.8.0",
+      "simulated-bifurcation": "2.0.0",
+      "matplotlib": "3.11.2",
+      "pandas": "3.1.0"
+    },
+    "scip_version": "10.0.2",
+    "parameters": {
+      "limits/gap": 0.0,
+      "limits/absgap": 0.0,
+      "numerics/feastol": 1e-08,
+      "parallel/maxnthreads": 1,
+      "randomization/randomseedshift": 0
+    },
+    "dtype": "float64",
+    "omp_threads": "2",
+    "openblas_threads": "2",
+    "torch_threads": 2
+  },
+  "parameters": {
+    "num_reads": 100,
+    "seed": 3,
+    "schedule": "default",
+    "num_sweeps": 1000,
+    "num_sweeps_per_beta": 1,
+    "beta_schedule_type": "geometric",
+    "beta_range": "automatic",
+    "initial_states_generator": "random",
+    "randomize_order": false,
+    "proposal_acceptance_criteria": "Metropolis",
+    "info": {
+      "beta_range": [
+        9.350029218696585e-10,
+        25.288638317283226
+      ],
+      "beta_schedule_type": "geometric",
+      "timing": {
+        "preprocessing_ns": 141335276,
+        "sampling_ns": 8758367202,
+        "postprocessing_ns": 2313301
+      }
+    }
+  },
+  "zero_penalty_count": 0
+}
