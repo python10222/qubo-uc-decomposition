@@ -1,0 +1,4930 @@
+{
+  "name": "10_0_1_w_k5_T6",
+  "q": 1.0,
+  "demand": [
+    301,
+    285,
+    232,
+    230,
+    234,
+    253
+  ],
+  "units": [
+    {
+      "name": "g0",
+      "pmin": [
+        32.0,
+        32.0,
+        32.0,
+        32.0,
+        32.0,
+        32.0
+      ],
+      "pmax": [
+        118.0,
+        118.0,
+        118.0,
+        118.0,
+        118.0,
+        118.0
+      ],
+      "cost": [
+        [
+          1337.7735799999955,
+          43.16996199999992,
+          0.07698800000000078
+        ],
+        [
+          1337.7735799999955,
+          43.16996199999992,
+          0.07698800000000078
+        ],
+        [
+          1337.7735799999955,
+          43.16996199999992,
+          0.07698800000000078
+        ],
+        [
+          1337.7735799999955,
+          43.16996199999992,
+          0.07698800000000078
+        ],
+        [
+          1337.7735799999955,
+          43.16996199999992,
+          0.07698800000000078
+        ],
+        [
+          1337.7735799999955,
+          43.16996199999992,
+          0.07698800000000078
+        ]
+      ],
+      "startup": [
+        172.862432,
+        172.862432,
+        172.862432,
+        172.862432,
+        172.862432,
+        172.862432
+      ],
+      "initial_on": false,
+      "must_run": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "name": "g1",
+      "pmin": [
+        37.0,
+        37.0,
+        37.0,
+        37.0,
+        37.0,
+        37.0
+      ],
+      "pmax": [
+        119.0,
+        119.0,
+        119.0,
+        119.0,
+        119.0,
+        119.0
+      ],
+      "cost": [
+        [
+          1362.6560739999998,
+          45.08669599999985,
+          0.08929300000000132
+        ],
+        [
+          1362.6560739999998,
+          45.08669599999985,
+          0.08929300000000132
+        ],
+        [
+          1362.6560739999998,
+          45.08669599999985,
+          0.08929300000000132
+        ],
+        [
+          1362.6560739999998,
+          45.08669599999985,
+          0.08929300000000132
+        ],
+        [
+          1362.6560739999998,
+          45.08669599999985,
+          0.08929300000000132
+        ],
+        [
+          1362.6560739999998,
+          45.08669599999985,
+          0.08929300000000132
+        ]
+      ],
+      "startup": [
+        168.685601,
+        168.685601,
+        168.685601,
+        168.685601,
+        168.685601,
+        168.685601
+      ],
+      "initial_on": true,
+      "must_run": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "name": "g2",
+      "pmin": [
+        48.0,
+        48.0,
+        48.0,
+        48.0,
+        48.0,
+        48.0
+      ],
+      "pmax": [
+        105.0,
+        105.0,
+        105.0,
+        105.0,
+        105.0,
+        105.0
+      ],
+      "cost": [
+        [
+          1377.1167209999942,
+          40.46014199999998,
+          0.030422000000000494
+        ],
+        [
+          1377.1167209999942,
+          40.46014199999998,
+          0.030422000000000494
+        ],
+        [
+          1377.1167209999942,
+          40.46014199999998,
+          0.030422000000000494
+        ],
+        [
+          1377.1167209999942,
+          40.46014199999998,
+          0.030422000000000494
+        ],
+        [
+          1377.1167209999942,
+          40.46014199999998,
+          0.030422000000000494
+        ],
+        [
+          1377.1167209999942,
+          40.46014199999998,
+          0.030422000000000494
+        ]
+      ],
+      "startup": [
+        162.202704,
+        162.202704,
+        162.202704,
+        162.202704,
+        162.202704,
+        162.202704
+      ],
+      "initial_on": false,
+      "must_run": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "name": "g3",
+      "pmin": [
+        48.0,
+        48.0,
+        48.0,
+        48.0,
+        48.0,
+        48.0
+      ],
+      "pmax": [
+        113.0,
+        113.0,
+        113.0,
+        113.0,
+        113.0,
+        113.0
+      ],
+      "cost": [
+        [
+          1511.8219169999961,
+          49.00791399999993,
+          0.06160200000000076
+        ],
+        [
+          1511.8219169999961,
+          49.00791399999993,
+          0.06160200000000076
+        ],
+        [
+          1511.8219169999961,
+          49.00791399999993,
+          0.06160200000000076
+        ],
+        [
+          1511.8219169999961,
+          49.00791399999993,
+          0.06160200000000076
+        ],
+        [
+          1511.8219169999961,
+          49.00791399999993,
+          0.06160200000000076
+        ],
+        [
+          1511.8219169999961,
+          49.00791399999993,
+          0.06160200000000076
+        ]
+      ],
+      "startup": [
+        160.219192,
+        160.219192,
+        160.219192,
+        160.219192,
+        160.219192,
+        160.219192
+      ],
+      "initial_on": true,
+      "must_run": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "name": "g4",
+      "pmin": [
+        47.0,
+        47.0,
+        47.0,
+        47.0,
+        47.0,
+        47.0
+      ],
+      "pmax": [
+        102.0,
+        102.0,
+        102.0,
+        102.0,
+        102.0,
+        102.0
+      ],
+      "cost": [
+        [
+          1468.9589319999977,
+          45.54301799999995,
+          0.052430000000000546
+        ],
+        [
+          1468.9589319999977,
+          45.54301799999995,
+          0.052430000000000546
+        ],
+        [
+          1468.9589319999977,
+          45.54301799999995,
+          0.052430000000000546
+        ],
+        [
+          1468.9589319999977,
+          45.54301799999995,
+          0.052430000000000546
+        ],
+        [
+          1468.9589319999977,
+          45.54301799999995,
+          0.052430000000000546
+        ],
+        [
+          1468.9589319999977,
+          45.54301799999995,
+          0.052430000000000546
+        ]
+      ],
+      "startup": [
+        159.160047,
+        159.160047,
+        159.160047,
+        159.160047,
+        159.160047,
+        159.160047
+      ],
+      "initial_on": false,
+      "must_run": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "audit": {
+    "file": "10_0_1_w.json.gz",
+    "sha256": "6ef95ef5a1966914306da848f2ffa4bd835c49d520e30b1dcbcfa948eee85cbe",
+    "data_format_version": "0.3",
+    "q_mw": 1.0,
+    "dropped_fields": [
+      {
+        "field": "Reserves",
+        "reason": "reserves/network/other constraints outside model scope",
+        "value": {
+          "r1": {
+            "Type": "Spinning",
+            "Amount (MW)": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      },
+      {
+        "field": "Generators.g0.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g0.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 0.0
+      },
+      {
+        "field": "Generators.g0.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 4
+      },
+      {
+        "field": "Generators.g0.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 3
+      },
+      {
+        "field": "Generators.g0.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g0.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          3
+        ]
+      },
+      {
+        "field": "Generators.g0.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 42.003808
+      },
+      {
+        "field": "Generators.g0.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 32.599073
+      },
+      {
+        "field": "Generators.g1.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g1.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 74.666609
+      },
+      {
+        "field": "Generators.g1.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 3
+      },
+      {
+        "field": "Generators.g1.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 3
+      },
+      {
+        "field": "Generators.g1.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g1.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          3
+        ]
+      },
+      {
+        "field": "Generators.g1.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 31.325072
+      },
+      {
+        "field": "Generators.g1.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 36.390287
+      },
+      {
+        "field": "Generators.g2.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g2.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 0.0
+      },
+      {
+        "field": "Generators.g2.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 4
+      },
+      {
+        "field": "Generators.g2.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 3
+      },
+      {
+        "field": "Generators.g2.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g2.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          3
+        ]
+      },
+      {
+        "field": "Generators.g2.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 20.632301
+      },
+      {
+        "field": "Generators.g2.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 21.831385
+      },
+      {
+        "field": "Generators.g3.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g3.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 85.048019
+      },
+      {
+        "field": "Generators.g3.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 3
+      },
+      {
+        "field": "Generators.g3.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 4
+      },
+      {
+        "field": "Generators.g3.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g3.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          4
+        ]
+      },
+      {
+        "field": "Generators.g3.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 27.869072
+      },
+      {
+        "field": "Generators.g3.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 27.091832
+      },
+      {
+        "field": "Generators.g4.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g4.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 0.0
+      },
+      {
+        "field": "Generators.g4.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 3
+      },
+      {
+        "field": "Generators.g4.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 3
+      },
+      {
+        "field": "Generators.g4.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g4.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          3
+        ]
+      },
+      {
+        "field": "Generators.g4.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 22.204262
+      },
+      {
+        "field": "Generators.g4.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 27.417263
+      },
+      {
+        "field": "Generators.g5.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g5.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 68.169224
+      },
+      {
+        "field": "Generators.g5.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 8
+      },
+      {
+        "field": "Generators.g5.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 8
+      },
+      {
+        "field": "Generators.g5.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g5.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          8
+        ]
+      },
+      {
+        "field": "Generators.g5.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 51.694535
+      },
+      {
+        "field": "Generators.g5.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 61.702851
+      },
+      {
+        "field": "Generators.g6.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g6.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 120.163482
+      },
+      {
+        "field": "Generators.g6.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 7
+      },
+      {
+        "field": "Generators.g6.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 8
+      },
+      {
+        "field": "Generators.g6.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g6.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          8
+        ]
+      },
+      {
+        "field": "Generators.g6.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 67.064482
+      },
+      {
+        "field": "Generators.g6.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 49.715649
+      },
+      {
+        "field": "Generators.g7.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g7.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 72.655836
+      },
+      {
+        "field": "Generators.g7.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 8
+      },
+      {
+        "field": "Generators.g7.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 8
+      },
+      {
+        "field": "Generators.g7.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g7.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          8
+        ]
+      },
+      {
+        "field": "Generators.g7.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 64.139573
+      },
+      {
+        "field": "Generators.g7.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 69.178653
+      },
+      {
+        "field": "Generators.g8.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g8.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 0.0
+      },
+      {
+        "field": "Generators.g8.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 13
+      },
+      {
+        "field": "Generators.g8.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 14
+      },
+      {
+        "field": "Generators.g8.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g8.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          14
+        ]
+      },
+      {
+        "field": "Generators.g8.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 89.618227
+      },
+      {
+        "field": "Generators.g8.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 78.751405
+      },
+      {
+        "field": "Generators.g9.Bus",
+        "reason": "outside simplified UC scope",
+        "value": "b1"
+      },
+      {
+        "field": "Generators.g9.Initial power (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 118.674849
+      },
+      {
+        "field": "Generators.g9.Minimum uptime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 14
+      },
+      {
+        "field": "Generators.g9.Minimum downtime (h)",
+        "reason": "outside simplified UC scope",
+        "value": 12
+      },
+      {
+        "field": "Generators.g9.Reserve eligibility",
+        "reason": "outside simplified UC scope",
+        "value": [
+          "r1"
+        ]
+      },
+      {
+        "field": "Generators.g9.Startup delays (h)",
+        "reason": "outside simplified UC scope",
+        "value": [
+          12
+        ]
+      },
+      {
+        "field": "Generators.g9.Ramp up limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 101.140357
+      },
+      {
+        "field": "Generators.g9.Ramp down limit (MW)",
+        "reason": "outside simplified UC scope",
+        "value": 99.597226
+      }
+    ],
+    "time_varying_fields": [
+      "Buses.b1.Load (MW)"
+    ],
+    "assumptions": [
+      "Generators.g0: no Type field in v0.3; treated as thermal",
+      "Generators.g1: no Type field in v0.3; treated as thermal",
+      "Generators.g2: no Type field in v0.3; treated as thermal",
+      "Generators.g3: no Type field in v0.3; treated as thermal",
+      "Generators.g4: no Type field in v0.3; treated as thermal",
+      "Generators.g5: no Type field in v0.3; treated as thermal",
+      "Generators.g6: no Type field in v0.3; treated as thermal",
+      "Generators.g7: no Type field in v0.3; treated as thermal",
+      "Generators.g8: no Type field in v0.3; treated as thermal",
+      "Generators.g9: no Type field in v0.3; treated as thermal"
+    ],
+    "units": {
+      "g0": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1337.7735799999955,
+              43.16996199999992,
+              0.07698800000000078
+            ],
+            "rmse": 5.384485162945815e-12,
+            "max_abs_error": 6.821210263296962e-12
+          }
+        ],
+        "pmin_raw_mw": [
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0
+        ],
+        "pmax_raw_mw": [
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0
+        ],
+        "pmin_rounded_mw": [
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0,
+          32.0
+        ],
+        "pmax_rounded_mw": [
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0,
+          118.0
+        ],
+        "startup_cost_by_hour": [
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432,
+          172.862432
+        ],
+        "initial_status_h": -1,
+        "initial_on": false,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g1": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1362.6560739999998,
+              45.08669599999985,
+              0.08929300000000132
+            ],
+            "rmse": 3.948715556560712e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          }
+        ],
+        "pmin_raw_mw": [
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0
+        ],
+        "pmax_raw_mw": [
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0
+        ],
+        "pmin_rounded_mw": [
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0,
+          37.0
+        ],
+        "pmax_rounded_mw": [
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0,
+          119.0
+        ],
+        "startup_cost_by_hour": [
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601,
+          168.685601
+        ],
+        "initial_status_h": 4,
+        "initial_on": true,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g2": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1377.1167209999942,
+              40.46014199999998,
+              0.030422000000000494
+            ],
+            "rmse": 4.270753154514349e-12,
+            "max_abs_error": 5.9117155615240335e-12
+          }
+        ],
+        "pmin_raw_mw": [
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0
+        ],
+        "pmax_raw_mw": [
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0
+        ],
+        "pmin_rounded_mw": [
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0
+        ],
+        "pmax_rounded_mw": [
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0,
+          105.0
+        ],
+        "startup_cost_by_hour": [
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704,
+          162.202704
+        ],
+        "initial_status_h": -4,
+        "initial_on": false,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g3": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1511.8219169999961,
+              49.00791399999993,
+              0.06160200000000076
+            ],
+            "rmse": 4.655333720464015e-12,
+            "max_abs_error": 5.4569682106375694e-12
+          }
+        ],
+        "pmin_raw_mw": [
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0
+        ],
+        "pmax_raw_mw": [
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0
+        ],
+        "pmin_rounded_mw": [
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0,
+          48.0
+        ],
+        "pmax_rounded_mw": [
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0,
+          113.0
+        ],
+        "startup_cost_by_hour": [
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192,
+          160.219192
+        ],
+        "initial_status_h": 2,
+        "initial_on": true,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g4": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              1468.9589319999977,
+              45.54301799999995,
+              0.052430000000000546
+            ],
+            "rmse": 2.8832559990673616e-12,
+            "max_abs_error": 3.637978807091713e-12
+          }
+        ],
+        "pmin_raw_mw": [
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0
+        ],
+        "pmax_raw_mw": [
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0
+        ],
+        "pmin_rounded_mw": [
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0,
+          47.0
+        ],
+        "pmax_rounded_mw": [
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0,
+          102.0
+        ],
+        "startup_cost_by_hour": [
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047,
+          159.160047
+        ],
+        "initial_status_h": -4,
+        "initial_on": false,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g5": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2577.797812999998,
+              63.08359799999985,
+              0.008156000000000791
+            ],
+            "rmse": 6.878570421100099e-12,
+            "max_abs_error": 1.000444171950221e-11
+          }
+        ],
+        "pmin_raw_mw": [
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0
+        ],
+        "pmax_raw_mw": [
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0
+        ],
+        "pmin_rounded_mw": [
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0,
+          50.0
+        ],
+        "pmax_rounded_mw": [
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0,
+          190.0
+        ],
+        "startup_cost_by_hour": [
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696,
+          265.61696
+        ],
+        "initial_status_h": 1,
+        "initial_on": true,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g6": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2430.515448999997,
+              59.21737499999987,
+              0.007841000000000601
+            ],
+            "rmse": 8.799096847686323e-12,
+            "max_abs_error": 1.0913936421275139e-11
+          }
+        ],
+        "pmin_raw_mw": [
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0
+        ],
+        "pmax_raw_mw": [
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0
+        ],
+        "pmin_rounded_mw": [
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0,
+          62.0
+        ],
+        "pmax_rounded_mw": [
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0,
+          208.0
+        ],
+        "startup_cost_by_hour": [
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626,
+          273.416626
+        ],
+        "initial_status_h": 1,
+        "initial_on": true,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g7": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              2624.935846999988,
+              64.92289199999999,
+              0.008667000000000267
+            ],
+            "rmse": 9.486688075707423e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          }
+        ],
+        "pmin_raw_mw": [
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0
+        ],
+        "pmax_raw_mw": [
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0
+        ],
+        "pmin_rounded_mw": [
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0,
+          55.0
+        ],
+        "pmax_rounded_mw": [
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0,
+          211.0
+        ],
+        "startup_cost_by_hour": [
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623,
+          306.21623
+        ],
+        "initial_status_h": 6,
+        "initial_on": true,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g8": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3033.0455230000102,
+              61.18827699999973,
+              0.002212000000000782
+            ],
+            "rmse": 9.416674660711421e-12,
+            "max_abs_error": 1.2732925824820995e-11
+          }
+        ],
+        "pmin_raw_mw": [
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0
+        ],
+        "pmax_raw_mw": [
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0
+        ],
+        "pmin_rounded_mw": [
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0,
+          85.0
+        ],
+        "pmax_rounded_mw": [
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0,
+          282.0
+        ],
+        "startup_cost_by_hour": [
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452,
+          445.842452
+        ],
+        "initial_status_h": -8,
+        "initial_on": false,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "g9": {
+        "fits_by_hour": [
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          },
+          {
+            "raw_cost_form": "piecewise_linear",
+            "coefficients_abc": [
+              3057.5951909999885,
+              54.34684399999995,
+              0.002835000000000189
+            ],
+            "rmse": 1.1767329116727246e-11,
+            "max_abs_error": 1.4551915228366852e-11
+          }
+        ],
+        "pmin_raw_mw": [
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0
+        ],
+        "pmax_raw_mw": [
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0
+        ],
+        "pmin_rounded_mw": [
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0,
+          84.0
+        ],
+        "pmax_rounded_mw": [
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0,
+          323.0
+        ],
+        "startup_cost_by_hour": [
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559,
+          466.424559
+        ],
+        "initial_status_h": 9,
+        "initial_on": true,
+        "must_run_by_hour": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    },
+    "source": "J.E.Beasley. \"OR-Library: distributing test problems by electronic mail\", Journal of the Operational Research Society 41(11) (1990). DOI: 10.2307/2582903\nA. Frangioni, C. Gentile. \"Solving nonlinear single-unit commitment problems with ramping constraints\" Operations Research 54(4), p. 767 - 775, 2006. DOI: 10.1287/opre.1060.0309\n",
+    "license": "All of the material available from OR-Library is freely available for use. As such the MIT licence, reproduced below, applies:\n\nCopyright (c) (2010) (J E Beasley} Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. \n",
+    "grid_rule": "full_range_rational_v2",
+    "integer_power_assertion": true,
+    "demand_raw_mw": [
+      953.170832,
+      902.233658,
+      736.221518,
+      730.912573,
+      743.969707,
+      801.50719,
+      958.479777,
+      1170.120146,
+      1366.551107,
+      1427.675715,
+      1434.849965,
+      1453.913382,
+      1428.536626,
+      1313.892113,
+      1354.641852,
+      1366.120652,
+      1360.237768,
+      1322.644699,
+      1270.70313,
+      1287.921329,
+      1323.649093,
+      1255.637205,
+      1141.566632,
+      1034.95728
+    ],
+    "demand_rounded_mw": [
+      954.0,
+      903.0,
+      737.0,
+      731.0,
+      744.0,
+      802.0,
+      959.0,
+      1171.0,
+      1367.0,
+      1428.0,
+      1435.0,
+      1454.0,
+      1429.0,
+      1314.0,
+      1355.0,
+      1367.0,
+      1361.0,
+      1323.0,
+      1271.0,
+      1288.0,
+      1324.0,
+      1256.0,
+      1142.0,
+      1035.0
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "tests_passed": 89,
+  "threshold_endpoints": 96,
+  "heuristic_samples": 2280,
+  "zero_penalty_samples": 0,
+  "command": "OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 python -m pytest -q"
+}

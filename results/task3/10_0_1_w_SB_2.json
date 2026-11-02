@@ -1,0 +1,66 @@
+{
+  "instance": "10_0_1_w",
+  "B": 4,
+  "n": 1522,
+  "solver": "SB",
+  "seed": 2,
+  "lambda1": 7048.039499999977,
+  "lambda2": 35.41248654545454,
+  "wall_seconds": 60.67494034499998,
+  "best_energy": 247903839.14836347,
+  "samples": 128,
+  "feasible_count": 2,
+  "feasibility_rate": 0.015625,
+  "best_feasible_cost": 2869285.730803212,
+  "z_disc": 1895177.5140206837,
+  "gap_absolute": 974108.2167825284,
+  "gap_percent": 51.39931270690969,
+  "metadata": {
+    "cpu_model": "AMD EPYC 9V45 96-Core Processor",
+    "logical_cpu_count": 3,
+    "scip_threads": 1,
+    "python": "3.12.14",
+    "libraries": {
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "pyscipopt": "6.3.0",
+      "torch": "2.15.0+cpu",
+      "dimod": "0.12.23",
+      "dwave-samplers": "1.8.0",
+      "simulated-bifurcation": "2.0.0",
+      "matplotlib": "3.11.2",
+      "pandas": "3.1.0"
+    },
+    "scip_version": "10.0.2",
+    "parameters": {
+      "limits/gap": 0.0,
+      "limits/absgap": 0.0,
+      "numerics/feastol": 1e-08,
+      "parallel/maxnthreads": 1,
+      "randomization/randomseedshift": 0
+    },
+    "dtype": "float64",
+    "omp_threads": "2",
+    "openblas_threads": "2",
+    "torch_threads": 2
+  },
+  "parameters": {
+    "agents": 128,
+    "seed": 2,
+    "max_steps": 10000,
+    "mode": "ballistic",
+    "heated": false,
+    "early_stopping": true,
+    "sampling_period": 50,
+    "convergence_threshold": 50,
+    "timeout": null,
+    "best_only": false,
+    "verbose": false,
+    "environment": {
+      "time_step": 0.1,
+      "pressure_slope": 0.01,
+      "heat_coefficient": 0.06
+    }
+  },
+  "zero_penalty_count": 0
+}
